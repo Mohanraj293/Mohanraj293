@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohanraj293
-- 👀 I’m interested in Learning JavaScript, ReactJs, Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Learning JavaScript applications rather than any other languages
+- 🌱 I’m currently Working and developing JavaScript Applications
 - 📫 Reach me via mohanrajrengarajr@gmail.com
 
 <!---
