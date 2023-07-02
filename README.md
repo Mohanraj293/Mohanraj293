@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohanraj293.
-- 👀 I’m interested in Learning JavaScript applications, Because I love JS.
-- 🌱 I’m currently Working and developing JavaScript Applications.
-- 📫 Reach me via mohanrajrengarajr@gmail.com
+- 👀 I’m developing android and JavaScript applications, Because I love JS and ofc Android🐛.
+- 📫 Reach me via mohanrajrengaraj@gmail.com
 
 <!---
 Mohanraj293/Mohanraj293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
